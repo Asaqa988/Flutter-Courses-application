@@ -197,7 +197,7 @@ class _CoursesState extends State<Courses> {
                         });
                       },
                       icon: Icon(Icons.home),
-                      label: Text("Go Back to Home Page")),
+                      label: Text("Go Back To Home Page")),
                 )
               ],
             ),
